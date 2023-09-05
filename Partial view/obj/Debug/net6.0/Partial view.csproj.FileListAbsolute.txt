@@ -1,0 +1,31 @@
+D:\Phase-2_Assisted projects\project1\Partial view\Partial view\bin\Debug\net6.0\appsettings.Development.json
+D:\Phase-2_Assisted projects\project1\Partial view\Partial view\bin\Debug\net6.0\appsettings.json
+D:\Phase-2_Assisted projects\project1\Partial view\Partial view\bin\Debug\net6.0\Partial view.staticwebassets.runtime.json
+D:\Phase-2_Assisted projects\project1\Partial view\Partial view\bin\Debug\net6.0\Partial view.exe
+D:\Phase-2_Assisted projects\project1\Partial view\Partial view\bin\Debug\net6.0\Partial view.deps.json
+D:\Phase-2_Assisted projects\project1\Partial view\Partial view\bin\Debug\net6.0\Partial view.runtimeconfig.json
+D:\Phase-2_Assisted projects\project1\Partial view\Partial view\bin\Debug\net6.0\Partial view.dll
+D:\Phase-2_Assisted projects\project1\Partial view\Partial view\bin\Debug\net6.0\Partial view.pdb
+D:\Phase-2_Assisted projects\project1\Partial view\Partial view\obj\Debug\net6.0\Partial view.csproj.AssemblyReference.cache
+D:\Phase-2_Assisted projects\project1\Partial view\Partial view\obj\Debug\net6.0\Partial view.GeneratedMSBuildEditorConfig.editorconfig
+D:\Phase-2_Assisted projects\project1\Partial view\Partial view\obj\Debug\net6.0\Partial view.AssemblyInfoInputs.cache
+D:\Phase-2_Assisted projects\project1\Partial view\Partial view\obj\Debug\net6.0\Partial view.AssemblyInfo.cs
+D:\Phase-2_Assisted projects\project1\Partial view\Partial view\obj\Debug\net6.0\Partial view.csproj.CoreCompileInputs.cache
+D:\Phase-2_Assisted projects\project1\Partial view\Partial view\obj\Debug\net6.0\Partial view.MvcApplicationPartsAssemblyInfo.cache
+D:\Phase-2_Assisted projects\project1\Partial view\Partial view\obj\Debug\net6.0\Partial view.RazorAssemblyInfo.cache
+D:\Phase-2_Assisted projects\project1\Partial view\Partial view\obj\Debug\net6.0\Partial view.RazorAssemblyInfo.cs
+D:\Phase-2_Assisted projects\project1\Partial view\Partial view\obj\Debug\net6.0\staticwebassets\msbuild.Partial view.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Phase-2_Assisted projects\project1\Partial view\Partial view\obj\Debug\net6.0\staticwebassets\msbuild.build.Partial view.props
+D:\Phase-2_Assisted projects\project1\Partial view\Partial view\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Partial view.props
+D:\Phase-2_Assisted projects\project1\Partial view\Partial view\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Partial view.props
+D:\Phase-2_Assisted projects\project1\Partial view\Partial view\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Phase-2_Assisted projects\project1\Partial view\Partial view\obj\Debug\net6.0\staticwebassets.build.json
+D:\Phase-2_Assisted projects\project1\Partial view\Partial view\obj\Debug\net6.0\staticwebassets.development.json
+D:\Phase-2_Assisted projects\project1\Partial view\Partial view\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Phase-2_Assisted projects\project1\Partial view\Partial view\obj\Debug\net6.0\scopedcss\bundle\Partial view.styles.css
+D:\Phase-2_Assisted projects\project1\Partial view\Partial view\obj\Debug\net6.0\scopedcss\projectbundle\Partial view.bundle.scp.css
+D:\Phase-2_Assisted projects\project1\Partial view\Partial view\obj\Debug\net6.0\Partial view.dll
+D:\Phase-2_Assisted projects\project1\Partial view\Partial view\obj\Debug\net6.0\refint\Partial view.dll
+D:\Phase-2_Assisted projects\project1\Partial view\Partial view\obj\Debug\net6.0\Partial view.pdb
+D:\Phase-2_Assisted projects\project1\Partial view\Partial view\obj\Debug\net6.0\Partial view.genruntimeconfig.cache
+D:\Phase-2_Assisted projects\project1\Partial view\Partial view\obj\Debug\net6.0\ref\Partial view.dll
